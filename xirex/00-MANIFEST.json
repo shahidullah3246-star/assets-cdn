@@ -1,0 +1,242 @@
+{
+  "project": "Xirex",
+  "cdnSlug": "xirex-ai-agency",
+  "scope": "Homepage only",
+  "workflowNote": "Navbar and Hero are separate. Copy-only; originals in images/ and fonts/ untouched. No html/css/js in packs.",
+  "cdnRoot": "https://shahidullah3246-star.github.io/assets-cdn/xirex-ai-agency/",
+  "phases": [
+    {
+      "folder": "Navbar assets",
+      "cdnSlug": "navbar-assets",
+      "copied": 64,
+      "files": [
+        "kjtmjl8st4lumvaxr4jhp05vino.avif",
+        "lwdveefo6hwmzb2k9lfdpv4mte.webp",
+        "nxvjmrz0c6cqqfpdxlvpw7rk2xs.svg",
+        "q0izpy9zwybqwycyx6ommptiy.svg",
+        "rduagghltgi2hebhen39psbkjm.avif",
+        "rs05iysxoo4ikqcr5j2wqbwya.avif",
+        "uddiwefwupdhzc5crlukbombybc.svg",
+        "writing-hand-favicon.png",
+        "ygrtezjhr0ow2vxvajzhepdr5q.avif"
+      ],
+      "fonts": [
+        "1k3w8dizy3v4emk8mb08yhxtbs.woff2",
+        "2a4xx7cngadfglvv4xro06obhy.woff2",
+        "33zcuac3gu2qvdmgy6ep3bnwhet5iuk4.woff2",
+        "43sj6mfoph1lcjt46ovydusba6o.woff2",
+        "4icr6k5wfmrrjxp0da6-2clnb41hhrui.woff2",
+        "4icr6k5wfmrrjxp0da6-2clnb45hhrui.woff2",
+        "4icr6k5wfmrrjxp0da6-2clnb4nhhg.woff2",
+        "4raeqdeorcndkhhiicbjow92lk.woff2",
+        "5s8ssj0opnyltarubqxr8fybwhe.woff2",
+        "5vvr9vy74if2i6bqbjvbw7sy1pq.woff2",
+        "867qobyax8ansfx4tgevu9yicm.woff2",
+        "b6y37fthzealdunqhicbt6futy.woff2",
+        "cdae8hgz1cmylu9g005paw3xmo.woff2",
+        "cfmzu8w2e7thgf4t4ratmpuwosa.woff2",
+        "dofvtme1uplcq161m6hj8csqyg.woff2",
+        "dppbyi0sl4fylgakx8kxopvt7c.woff2",
+        "eo5mke3budozn44bp4hdpxajac2bimcd.woff2",
+        "eor0mi4hntlgwnn9if640ezzxco.woff2",
+        "giryzetix4ifypco5pyzonkhjio.woff2",
+        "grgckwrn6d3uz8ewclhzxwefc4.woff2",
+        "gybhhwuxid8gmgyqmkr3pzfawi_re-q4mjpby1qnta.woff2",
+        "gybhhwuxid8gmgyqmkr3pzfawi_rneq4mjpby1qnta.woff2",
+        "gybhhwuxid8gmgyqmkr3pzfawi_rnom4mjpby1qnta.woff2",
+        "gybhhwuxid8gmgyqmkr3pzfawi_rquq4mjpby1qnta.woff2",
+        "gybhhwuxid8gmgyqmkr3pzfawi_rrum4mjpby1qnta.woff2",
+        "gybjhwuxid8gmewzaluvzlxa9ojevka32zna6vedtkcl.woff2",
+        "gybjhwuxid8gmewzaluvzlxa9ojevkao2zna6vedtkcl.woff2",
+        "gybjhwuxid8gmewzaluvzlxa9ojevkb52zna6vedtkcl.woff2",
+        "gybjhwuxid8gmewzaluvzlxa9ojevkdi3pna6vedtkcl.woff2",
+        "gybjhwuxid8gmewzaluvzlxa9ojevkdq3pna6vedtkcl.woff2",
+        "h89bbhkbhdzlxzzxi8upztsp90.woff2",
+        "hieft57nysyqjx2rc4h6nzcoyvhpmbal.woff2",
+        "ia3uin3hqwqdrvloc1zetyhww.woff2",
+        "jeywfuapfzhqheg8u5gtpdz7wq.woff2",
+        "o32tdya5q7pambbeunmo44bilzfpsqxn.woff2",
+        "oyn2zbenfdnw7mt2lzjk1h9zb9k.woff2",
+        "oyrd2tbibpvojxiihnlooxny9m.woff2",
+        "pkrfnwfozl77qycaip84ln1h944.woff2",
+        "syrnpwzamircj3wilpip43kjqs.woff2",
+        "tdby2o-fleeny0fzhsfku5wu4zr3e_bx0pnt8rd8l6ttn1ovgay.woff2",
+        "tdby2o-fleeny0fzhsfku5wu4zr3e_bx0pnt8rd8l6ttnfovgay.woff2",
+        "tdby2o-fleeny0fzhsfku5wu4zr3e_bx0pnt8rd8l6ttnvovgay.woff2",
+        "tdby2o-fleeny0fzhsfku5wu4zr3e_bx0pnt8rd8l6ttolov.woff2",
+        "tdby2o-fleeny0fzhsfku5wu4zr3e_bx0pnt8rd8l6ttovovgay.woff2",
+        "tdby2o-fleeny0fzhsfku5wu4zr3e_bx0pnt8rd8l6ttplovgay.woff2",
+        "tktbcdnbmevseejkdnghhklzyo.woff2",
+        "tusctfyvm1i1ichuycwz9gddq.woff2",
+        "u6gjwduwb143kpnk1t1mdkdwkmc.woff2",
+        "utz3osiqch2dnrjbpy7uy3lb6ydoznjx.woff2",
+        "vchfqie7hvvhwfpyx3ujfhlwznfbwmy2.woff2",
+        "vgyfwiwsac5oyxaycrxxvhze58.woff2",
+        "wcchg0r4gbdairhfhiolq6oekqw.woff2",
+        "wz367jpwf9brw6ldthn8rxgsjw.woff2",
+        "y9k9qrlzaqio88klkmbd8vomqc.woff2",
+        "ykq7porzm5dhbjrqmtfvqehvsjoeffj5.woff2"
+      ]
+    },
+    {
+      "folder": "Hero assets",
+      "cdnSlug": "hero-assets",
+      "copied": 6,
+      "files": [
+        "bzqigawq2pxrw2ecxtyjonmp3im.avif",
+        "nxvjmrz0c6cqqfpdxlvpw7rk2xs.svg",
+        "q0izpy9zwybqwycyx6ommptiy.svg",
+        "rduagghltgi2hebhen39psbkjm.avif",
+        "rs05iysxoo4ikqcr5j2wqbwya.avif",
+        "uddiwefwupdhzc5crlukbombybc.svg"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "Clients assets",
+      "cdnSlug": "clients-assets",
+      "copied": 8,
+      "files": [
+        "5u3ssqe9w80r3fboyuydffmvi.svg",
+        "d38mxzahhqcxxxcfjelzplfldqa.svg",
+        "dgpskhzmrd0nhzex8o7ixfijyu.svg",
+        "ej41m84qd2nctgfcblpgovpbsm.svg",
+        "wy5puoyxr2almfq1tee6ssrd5l0.svg",
+        "xfcpm1bv4ci7bnuc6vj37rxi7f8.svg",
+        "zia6fadgsz2ppxyovnachchl4a.svg",
+        "zvccqrmnno8erleduryvcbzmo.svg"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "Services assets",
+      "cdnSlug": "services-assets",
+      "copied": 2,
+      "files": [
+        "1ovbjn9s5008wsrkangcop5xq98.webm",
+        "uddiwefwupdhzc5crlukbombybc.svg"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "Newsletter assets",
+      "cdnSlug": "newsletter-assets",
+      "copied": 3,
+      "files": [
+        "2ubnrf1r6mynyz1y5nqmqns770.avif",
+        "9kcbxw1gwbwdex0t3vdioee98.avif",
+        "bcxmojdpvkmoes2tdd7ja8mzunk.avif"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "Use Cases assets",
+      "cdnSlug": "use-cases-assets",
+      "copied": 1,
+      "files": [
+        "b9t7qbnyze16geyd6ys4nrsq.webp"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "How It Works assets",
+      "cdnSlug": "how-it-works-assets",
+      "copied": 7,
+      "files": [
+        "0dkytnuyfcnxjchn2wwzypgtl8.png",
+        "b9raq4yy3ymk79dp0xxebvxrvvy.avif",
+        "jmtfqf2iszn8oahf3pxdttwvg.avif",
+        "ricsewu6s9ohlwihe3awkvducso.avif",
+        "s48rrzyd7qt9gybkz65q9qeorzs.avif",
+        "wt6ptj5qhkmsohtxloc7gpjji.avif",
+        "zzvn0od93p0truhhbb9boybbja.png"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "Case Studies assets",
+      "cdnSlug": "case-studies-assets",
+      "copied": 6,
+      "files": [
+        "8ptllzfdifzp443ajlp5stmpdc.avif",
+        "dxve4sqklrsj7vbcofueuuc74zk.avif",
+        "e2awh3w4kbo8lsobfph7vzpfsdm.avif",
+        "fnwmsdrl1wal5wmu9wosipzxfk.avif",
+        "ouhbvpww0hsx67tlxbxvolzz7go.avif",
+        "zgadg6mb8smjmxt9lvjdzf37m0.avif"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "Journey assets",
+      "cdnSlug": "journey-assets",
+      "copied": 0,
+      "files": [],
+      "fonts": []
+    },
+    {
+      "folder": "Testimonials assets",
+      "cdnSlug": "testimonials-assets",
+      "copied": 6,
+      "files": [
+        "0jprnlzwwrrwalbwz1yyk6rytq.avif",
+        "ej41m84qd2nctgfcblpgovpbsm.svg",
+        "hqg1zhepnbzhbg9acwkflpfrcho.avif",
+        "pzagccmotge2srzhcbklircqwk.avif",
+        "slp4zdgichmnd5rht5eypxx9nss.avif",
+        "wy5puoyxr2almfq1tee6ssrd5l0.svg"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "Insights assets",
+      "cdnSlug": "insights-assets",
+      "copied": 3,
+      "files": [
+        "a5ipyv0yi6xdmafv7ir3skymfa.avif",
+        "bnlazo7rfiaqaxu79fmduz1g.avif",
+        "szlgvscmz9gdztcfi1yewmtxmfw.avif"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "FAQ assets",
+      "cdnSlug": "faq-assets",
+      "copied": 0,
+      "files": [],
+      "fonts": []
+    },
+    {
+      "folder": "CTA assets",
+      "cdnSlug": "cta-assets",
+      "copied": 5,
+      "files": [
+        "9kcbxw1gwbwdex0t3vdioee98.avif",
+        "nxvjmrz0c6cqqfpdxlvpw7rk2xs.svg",
+        "q0izpy9zwybqwycyx6ommptiy.svg",
+        "uddiwefwupdhzc5crlukbombybc.svg",
+        "ygrtezjhr0ow2vxvajzhepdr5q.avif"
+      ],
+      "fonts": []
+    },
+    {
+      "folder": "Footer assets",
+      "cdnSlug": "footer-assets",
+      "copied": 5,
+      "files": [
+        "jnhtaqpr30njo8peaxkeyqlty4.avif",
+        "nxvjmrz0c6cqqfpdxlvpw7rk2xs.svg",
+        "q0izpy9zwybqwycyx6ommptiy.svg",
+        "rbo4xj4usxir1cqwzvpczqxguce.avif",
+        "rduagghltgi2hebhen39psbkjm.avif"
+      ],
+      "fonts": []
+    }
+  ],
+  "notes": [
+    "Journey and FAQ are CSS/type-only in the Framer homepage SSR (no raster/svg in those slices). Folders exist for CDN consistency.",
+    "Hero homepage media is mostly typography + one portrait + grid texture; service loop video lives in Services assets.",
+    "Inner-page images remain in images/ until those pages are packed.",
+    "Self-hosted fonts (Geist, Fragment Mono, JetBrains Mono, Geist Pixel Grid, Inter) are in Navbar assets."
+  ]
+}
